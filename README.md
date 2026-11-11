@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/pallmods-hero.gif" width="100%" alt="PallMods — animated neon banner with orbiting lights and a moving cyber grid" />
+  <img src="logo.png" width="200" alt="Logo PallMods neon ungu" />
+</p>
+
+<p align="center">
+  <img src="pallmods-hero.gif" width="100%" alt="PallMods — animated neon banner with orbiting lights and a moving cyber grid" />
 </p>
 
 <div align="center">
@@ -17,15 +21,15 @@ Ngulik Android, main di terminal, dan ngubah rasa penasaran jadi proyek. ⚡
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="Neon gradient divider" />
+<img src="divider.svg" width="100%" alt="Neon gradient divider" />
 
 ## 🧬 BEHIND THE USERNAME
 
-<img src="assets/terminal.gif" width="100%" alt="Animated terminal introducing PallMods, Android, Linux, and tools" />
+<img src="terminal.gif" width="100%" alt="Animated terminal introducing PallMods, Android, Linux, and tools" />
 
 | ✦ | PLAYER FILE |
 | :--- | :--- |
-| 👤 **Alias** | **PallMods / MILIK PAL** |
+| 👤 **Alias** | **PallMods** |
 | 🔧 **Di meja kerja** | Proyek Android, eksperimen tooling, dan build APK |
 | 📱 **Dari mana aja** | HP, Termux, Linux, sampai GitHub Actions |
 | 🧠 **Cara belajar** | Coba → error → cari penyebab → perbaiki → ulangi |
@@ -34,7 +38,7 @@ Ngulik Android, main di terminal, dan ngubah rasa penasaran jadi proyek. ⚡
 ## 🛠️ THE WORKBENCH
 
 <p align="center">
-  <img src="assets/toolbox.svg" width="100%" alt="Tools and technologies explored: Android, Termux, Linux, Java, C/C++, Gradle, GitHub Actions" />
+  <img src="toolbox.svg" width="100%" alt="Tools and technologies explored: Android, Termux, Linux, Java, C/C++, Gradle, GitHub Actions" />
 </p>
 
 <div align="center">
@@ -77,7 +81,7 @@ Setiap error punya cerita. Setiap perbaikan nambah pengalaman.
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="Neon gradient divider" />
+<img src="divider.svg" width="100%" alt="Neon gradient divider" />
 
 <div align="center">
 
