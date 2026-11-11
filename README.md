@@ -1,96 +1,59 @@
-<p align="center">
-  <img src="logo.png" width="200" alt="Logo PallMods neon ungu" />
-</p>
-
-<p align="center">
-  <img src="pallmods-hero.gif" width="100%" alt="PallMods — animated neon banner with orbiting lights and a moving cyber grid" />
-</p>
-
 <div align="center">
 
-### 👾 IDE LIAR. EKSEKUSI JALAN.
+<img src="logo.png" width="136" alt="PallMods signature logo" />
 
-**Selamat datang di markas PallMods.**  
-Ngulik Android, main di terminal, dan ngubah rasa penasaran jadi proyek. ⚡
+**P A L L M O D S**
 
-[![Profile](https://img.shields.io/badge/%40PallMods-a78bfa?style=for-the-badge&logo=github&logoColor=0b1020)](https://github.com/PallMods)
-[![Repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PallMods?tab=repositories)
-[![Stars](https://img.shields.io/badge/MY-STARRED_UNIVERSE-f472b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PallMods?tab=stars)
+Android enthusiast. Terminal explorer. Always building.
 
-**📱 Android · 🐧 Linux · 🛠️ Tools · 🎮 Gaming**
+[Profile](https://github.com/PallMods) &nbsp; · &nbsp; [Repositories](https://github.com/PallMods?tab=repositories) &nbsp; · &nbsp; [Stars](https://github.com/PallMods?tab=stars)
+
+<br />
+
+<img src="hero.gif" width="100%" alt="PallMods — slow violet orbit animation, Android, Linux, and experiments" />
 
 </div>
 
-<img src="divider.svg" width="100%" alt="Neon gradient divider" />
+<br />
 
-## 🧬 BEHIND THE USERNAME
+### A little about me
 
-<img src="terminal.gif" width="100%" alt="Animated terminal introducing PallMods, Android, Linux, and tools" />
+Gw suka ngulik cara sesuatu bekerja — dari aplikasi Android, terminal Linux, sampai proses build yang bisa dibuat lebih praktis. Belajar lewat eksperimen, beresin error satu per satu, lalu bikin versi yang lebih baik.
 
-| ✦ | PLAYER FILE |
-| :--- | :--- |
-| 👤 **Alias** | **PallMods** |
-| 🔧 **Di meja kerja** | Proyek Android, eksperimen tooling, dan build APK |
-| 📱 **Dari mana aja** | HP, Termux, Linux, sampai GitHub Actions |
-| 🧠 **Cara belajar** | Coba → error → cari penyebab → perbaiki → ulangi |
-| ⚡ **Motto** | Selama masih bisa dipelajari, masih bisa dikerjain. |
+**Curiosity drives the idea. Patience shapes the result.**
 
-## 🛠️ THE WORKBENCH
+<br />
 
-<p align="center">
-  <img src="toolbox.svg" width="100%" alt="Tools and technologies explored: Android, Termux, Linux, Java, C/C++, Gradle, GitHub Actions" />
-</p>
+### Areas of focus
 
-<div align="center">
+<img src="focus.svg" width="100%" alt="Android: apps, APK builds and debugging. Linux: terminal workflows and tooling. Experiments: small ideas and better iterations." />
 
-**Ngulik • belajar • ngerakit • nyoba lagi**  
-Setiap error punya cerita. Setiap perbaikan nambah pengalaman.
+<br />
 
-</div>
+### Tools I explore
 
-## 🚀 PROJECT RADAR
+<img src="workbench.svg" width="100%" alt="Android, Termux, Linux, Java, C++, Gradle, and GitHub Actions" />
 
-| 📡 Area | 🔭 Yang dieksplorasi |
-| :--- | :--- |
-| **Android Lab** | Aplikasi Android, build APK, dan debugging |
-| **Terminal Zone** | Lingkungan Linux, Termux, dan workflow dari HP |
-| **Build Station** | Gradle dan otomatisasi build lewat GitHub Actions |
-| **Creative Playground** | Tampilan, personalisasi, dan ide baru |
+<br />
 
-<p align="center">
-  <a href="https://github.com/PallMods?tab=repositories"><b>🪐 MASUK KE GALAKSI REPOSITORY →</b></a>
-</p>
+### The way I work
 
-## 🎮 SIDE QUESTS
+**01 — Explore** &nbsp; Pahami masalah dan cari kemungkinan.  
+**02 — Build** &nbsp; Coba idenya, lihat hasilnya, pelajari errornya.  
+**03 — Refine** &nbsp; Rapikan yang bekerja. Perbaiki yang belum.
 
-- 📦 Bikin proses build lebih praktis.
-- 🔍 Pahami penyebab error sampai ketemu akarnya.
-- 🎨 Kasih karakter ke setiap proyek.
-- 🌱 Belajar satu hal baru, lalu langsung cobain.
+<br />
 
-<details>
-<summary><b>🔓 OPEN THE SECRET ROOM</b></summary>
+<img src="signature.gif" width="100%" alt="Animated field note: Ideas into builds. Errors into lessons. Keep evolving." />
 
-### Pesan dari balik terminal
-
-> “Kalau belum jalan, berarti masih ada yang bisa diulik.”
-
-☕ Ide belum habis.  
-🔧 Proyek terus berkembang.  
-👾 Selamat datang di prosesnya.
-
-</details>
-
-<img src="divider.svg" width="100%" alt="Neon gradient divider" />
+<br />
 
 <div align="center">
 
-### 🌌 THANKS FOR ENTERING MY UNIVERSE
+**Less noise. More craft.**
 
-**PallMods** · Build with curiosity. Keep the ideas alive.
+[Jelajahi karya &amp; eksperimen →](https://github.com/PallMods?tab=repositories)
 
-[![Follow PallMods](https://img.shields.io/badge/FOLLOW-PallMods-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PallMods)
-
-👾 ⚡ 🛠️ 🪐 🎮
+<sub>Thanks for stopping by. — PallMods</sub>
 
 </div>
