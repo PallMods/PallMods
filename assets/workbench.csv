@@ -1,0 +1,9 @@
+Tool,Category,Purpose,Official reference
+Android,Platform,App projects and debugging,https://developer.android.com/docs
+Termux,Terminal,Android terminal environment,https://github.com/termux/termux-app
+Linux,Environment,Terminal workflows and tooling,https://docs.kernel.org/
+Java,Language,Android and JVM development,https://dev.java/learn/
+C++,Language,Native code experiments,https://isocpp.org/
+Gradle,Build,Build configuration and tasks,https://docs.gradle.org/current/userguide/userguide.html
+Git,Version control,History and local changes,https://git-scm.com/docs
+GitHub Actions,Automation,Workflow automation,https://docs.github.com/en/actions
