@@ -1,126 +1,116 @@
-<div align="center">
-
 <a name="top"></a>
-<p align="center"><img src="assets/logo.png" width="100" alt="Logo PallMods" /></p>
-<p align="center"><strong>PallX</strong> &nbsp; / &nbsp; @PallMods</p>
+<p align="center"><img src="assets/logo.png" width="112" alt="Logo PallMods" /></p>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="assets/profile-cover-light.svg" />
 <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cover.svg" />
-<img src="assets/profile-cover.svg" width="100%" alt="PallMods — aplikasi Android, tools, dan catatan proyek. PallTune dan CatGhost." />
+<img src="assets/profile-cover.svg" width="100%" alt="PallMods — aplikasi Android, web, dan tools" />
 </picture>
 <br />
-<table align="center">
-<tr><td align="center"><a href="#tentang"><strong>01</strong> / Tentang</a></td><td align="center"><a href="#proyek"><strong>02</strong> / Proyek</a></td><td align="center"><a href="#tools"><strong>03</strong> / Tools</a></td></tr>
-<tr><td align="center"><a href="#repo"><strong>04</strong> / Repository</a></td><td align="center"><a href="#kontak"><strong>05</strong> / Kontak</a></td><td align="center"><a href="#catatan"><strong>06</strong> / Catatan</a></td></tr>
-</table>
-<a name="tentang"></a>
-<h2 align="center">Tentang gw</h2>
-<p align="center">Gw PallX, di GitHub pakai <strong>PallMods</strong>. Gw ngerjain aplikasi Android, tampilan web, sama tools yang lagi dibutuhin. Biasanya bolak-balik antara terminal, file proyek, dan log build.</p>
-<p align="center">Proyek gw antara lain <strong>PallTune</strong> buat musik dan <strong>CatGhost</strong> buat manajemen WhatsApp. Link proyek dan akun gw ada di bawah.</p>
-<table align="center">
-<tr><th align="center"></th><th align="center">Catatan singkat</th></tr>
-<tr><td align="center">Nama</td><td align="center">PallX</td></tr>
-<tr><td align="center">GitHub</td><td align="center"><a href="https://github.com/PallMods">@PallMods</a></td></tr>
-<tr><td align="center">Yang sering dikerjain</td><td align="center">Android, web, dan tools.</td></tr>
-<tr><td align="center">Lingkungan kerja</td><td align="center">Termux, Linux, dan GitHub Actions.</td></tr>
-</table>
+<table align="center" width="100%"><tr>
+<td align="center" width="25%"><a href="#proyek"><strong>PROYEK</strong></a></td>
+<td align="center" width="25%"><a href="#tentang"><strong>TENTANG</strong></a></td>
+<td align="center" width="25%"><a href="#tools"><strong>TOOLS</strong></a></td>
+<td align="center" width="25%"><a href="#kontak"><strong>KONTAK</strong></a></td>
+</tr></table>
+<br />
 <a name="proyek"></a>
-<h2 align="center">Proyek</h2>
-<table align="center">
-<tr>
+<h2 align="center">Proyek yang gw kerjain</h2>
+<table align="center" width="100%"><tr>
 <td align="center" width="50%" valign="top">
 <a href="https://palltune.my.id"><img src="assets/project-palltune.svg" width="100%" alt="PallTune — aplikasi musik Android" /></a>
-<p align="center">Aplikasi musik Android. Tempat buat cari lagu, nyusun playlist, dan dengerin musik.</p>
-<p align="center"><a href="https://palltune.my.id"><strong>Website ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/PallMods/PallTune-APK/releases"><strong>Rilis APK ↗</strong></a></p>
+<p>Aplikasi musik Android buat cari lagu, nyusun playlist, dan dengerin musik.</p>
+<p><a href="https://palltune.my.id"><strong>Website ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/PallMods/PallTune-APK/releases"><strong>Rilis APK ↗</strong></a></p>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="https://t.me/pallXmodstele"><img src="assets/project-catghost.svg" width="100%" alt="CatGhost — aplikasi manajemen WhatsApp" /></a>
-<p align="center">Aplikasi manajemen WhatsApp. Kalau mau tanya soal CatGhost, hubungi gw lewat Telegram.</p>
-<p align="center"><a href="https://t.me/pallXmodstele"><strong>Tanya CatGhost ↗</strong></a> &nbsp; · &nbsp; <a href="https://whatsapp.com/channel/0029Vb8B7b0DZ4LXD3jpph3N"><strong>Saluran ↗</strong></a></p>
+<p>Aplikasi manajemen WhatsApp. Mau tanya soal CatGhost? Hubungi gw di Telegram.</p>
+<p><a href="https://t.me/pallXmodstele"><strong>Telegram ↗</strong></a> &nbsp; · &nbsp; <a href="https://whatsapp.com/channel/0029Vb8B7b0DZ4LXD3jpph3N"><strong>Saluran ↗</strong></a></p>
 </td>
-</tr>
-</table>
-<table align="center">
-<tr><th align="center">Proyek</th><th align="center">Kegunaan</th><th align="center">Tempat lihat</th></tr>
-<tr><td align="center"><strong>PallTune</strong></td><td align="center">Musik di Android.</td><td align="center"><a href="https://palltune.my.id">Website</a> · <a href="https://github.com/PallMods/PallTune-APK/releases">Releases</a></td></tr>
-<tr><td align="center"><strong>CatGhost</strong></td><td align="center">Manajemen WhatsApp.</td><td align="center"><a href="https://t.me/pallXmodstele">Telegram PallX</a></td></tr>
-</table>
-<details><summary align="center"><strong>Mau download atau ngikutin kabar proyek?</strong></summary><br />
-<table align="center">
-<tr><th align="center">Keperluan</th><th align="center">Buka</th></tr>
-<tr><td align="center">Download PallTune</td><td align="center"><a href="https://github.com/PallMods/PallTune-APK/releases/latest">Halaman rilis terbaru</a></td></tr>
-<tr><td align="center">Cari versi PallTune lainnya</td><td align="center"><a href="https://github.com/PallMods/PallTune-APK/releases">Semua rilis</a></td></tr>
-<tr><td align="center">Kabar dari gw</td><td align="center"><a href="https://whatsapp.com/channel/0029Vb8B7b0DZ4LXD3jpph3N">Saluran WhatsApp</a></td></tr>
-<tr><td align="center">Tanya langsung</td><td align="center"><a href="https://t.me/pallXmodstele">Telegram</a></td></tr>
-</table>
-</details>
-<p align="center"><a href="#top">↑ Atas</a></p>
-<a name="tools"></a>
-<h2 align="center">Yang ada di meja kerja</h2>
-<p align="center">Tools yang sering gw pakai atau pelajari pas ngerjain proyek.</p>
-<p align="center"><img src="assets/profile-tools.svg" width="100%" alt="Android, Termux, Linux, Java, C/C++, Gradle, Git, GitHub Actions" /></p>
-<table align="center">
-<tr><th align="center">Bagian</th><th align="center">Biasanya dipakai buat</th></tr>
-<tr><td align="center">Android</td><td align="center">Build APK, ngatur tampilan, dan baca log aplikasi.</td></tr>
-<tr><td align="center">Termux / Linux</td><td align="center">Jalanin perintah, kelola file, dan nyiapin tools.</td></tr>
-<tr><td align="center">Java / C / C++</td><td align="center">Baca dan utak-atik bagian aplikasi yang berkaitan.</td></tr>
-<tr><td align="center">Gradle</td><td align="center">Konfigurasi dan task build.</td></tr>
-<tr><td align="center">Git / GitHub</td><td align="center">Simpan perubahan dan cek riwayat proyek.</td></tr>
-<tr><td align="center">GitHub Actions</td><td align="center">Jalanin workflow build.</td></tr>
-</table>
-<details><summary align="center"><strong>Catatan yang sering gw buka waktu build macet</strong></summary><br />
-<table align="center">
-<tr><th align="center">Yang dicek</th><th align="center">Kenapa</th></tr>
-<tr><td align="center">Versi Java</td><td align="center">Pastikan cocok dengan kebutuhan proyek.</td></tr>
-<tr><td align="center">Error pertama</td><td align="center">Biasanya lebih membantu daripada baris “BUILD FAILED”.</td></tr>
-<tr><td align="center">Nama dan path file</td><td align="center">Sering beda huruf besar-kecil atau salah direktori.</td></tr>
-<tr><td align="center">Log crash</td><td align="center">Build sukses belum tentu aplikasinya langsung jalan.</td></tr>
-</table>
-</details>
-<p align="center"><a href="#top">↑ Atas</a></p>
-<a name="repo"></a>
-<h2 align="center">Cari repository</h2>
-<p align="center">Mau langsung lihat source atau proyek lain? Pilih dari sini.</p>
-<table align="center">
-<tr><th align="center">Tampilan</th><th align="center">Tautan</th></tr>
-<tr><td align="center">Semua repository</td><td align="center"><a href="https://github.com/PallMods?tab=repositories">Buka daftar →</a></td></tr>
-<tr><td align="center">Yang baru diperbarui</td><td align="center"><a href="https://github.com/PallMods?tab=repositories&amp;sort=updated">Urutkan terbaru →</a></td></tr>
-<tr><td align="center">Filter Java</td><td align="center"><a href="https://github.com/PallMods?tab=repositories&amp;language=java">Lihat Java →</a></td></tr>
-<tr><td align="center">Filter C++</td><td align="center"><a href="https://github.com/PallMods?tab=repositories&amp;language=c%2B%2B">Lihat C++ →</a></td></tr>
-<tr><td align="center">Repo yang gw tandai</td><td align="center"><a href="https://github.com/PallMods?tab=stars">Starred →</a></td></tr>
-</table>
-<a name="kontak"></a>
-<h2 align="center">Cari gw di sini</h2>
-<table align="center">
-<tr><th align="center">Platform</th><th align="center">Akun / saluran</th><th align="center">Buat apa</th></tr>
-<tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/pallXmodstele">@pallXmodstele</a></td><td align="center">Tanya proyek atau hubungi gw.</td></tr>
-<tr><td align="center">WhatsApp</td><td align="center"><a href="https://whatsapp.com/channel/0029Vb8B7b0DZ4LXD3jpph3N">Saluran PallX</a></td><td align="center">Kabar dan info yang gw bagikan.</td></tr>
-<tr><td align="center">TikTok</td><td align="center"><a href="https://www.tiktok.com/@palxmdm">@palxmdm</a></td><td align="center">Konten gw.</td></tr>
-<tr><td align="center">GitHub</td><td align="center"><a href="https://github.com/PallMods">@PallMods</a></td><td align="center">Repo, source, dan rilis.</td></tr>
-</table>
-<p align="center"><sub>Kalau ketemu akun lain yang mengatasnamakan PallX, cocokin dulu sama tautan di tabel ini. Bisa tanya lewat Telegram.</sub></p>
-<p align="center"><a href="#top">↑ Atas</a></p>
-<a name="catatan"></a>
-<h2 align="center">Catatan kecil</h2>
-<details><summary align="center"><strong>Beberapa pertanyaan yang sering muncul</strong></summary><br />
-<table align="center">
-<tr><th align="center">Pertanyaan</th><th align="center">Jawaban</th></tr>
-<tr><td align="center">PallX sama PallMods beda?</td><td align="center">PallX nama yang gw pakai. PallMods username GitHub gw.</td></tr>
-<tr><td align="center">PallTune download di mana?</td><td align="center"><a href="https://github.com/PallMods/PallTune-APK/releases">Di GitHub Releases</a>. Lewat halaman rilis supaya nama file versi baru tetap ketemu.</td></tr>
-<tr><td align="center">Ada source semua aplikasi?</td><td align="center">Yang bisa dibuka ada di daftar repo publik. Untuk yang lain, tanya dulu lewat Telegram.</td></tr>
-<tr><td align="center">Bisa kontak langsung?</td><td align="center">Bisa, pakai Telegram yang ada di tabel kontak.</td></tr>
+</tr></table>
+<details><summary><strong>Download &amp; kabar proyek</strong></summary><br />
+<table align="center" width="100%">
+<tr><th align="left">Mau cari</th><th align="left">Langsung ke</th></tr>
+<tr><td align="left">PallTune versi terbaru</td><td align="left"><a href="https://github.com/PallMods/PallTune-APK/releases/latest">Halaman rilis →</a></td></tr>
+<tr><td align="left">PallTune versi sebelumnya</td><td align="left"><a href="https://github.com/PallMods/PallTune-APK/releases">Daftar rilis →</a></td></tr>
+<tr><td align="left">Info proyek lainnya</td><td align="left"><a href="https://whatsapp.com/channel/0029Vb8B7b0DZ4LXD3jpph3N">Saluran WhatsApp →</a></td></tr>
+<tr><td align="left">Tanya soal aplikasi</td><td align="left"><a href="https://t.me/pallXmodstele">Telegram PallX →</a></td></tr>
 </table>
 </details>
 <br />
-<details><summary align="center"><strong>Logo dan tampilan profil</strong></summary><br />
-<table align="center">
-<tr><th align="center">File</th><th align="center">Buka</th></tr>
-<tr><td align="center">Logo PallMods</td><td align="center"><a href="assets/logo.png">Lihat logo</a></td></tr>
-<tr><td align="center">Banner gelap</td><td align="center"><a href="assets/profile-cover.svg">Lihat banner</a></td></tr>
-<tr><td align="center">Banner terang</td><td align="center"><a href="assets/profile-cover-light.svg">Lihat banner</a></td></tr>
+<a name="tentang"></a>
+<h2 align="center">Gw PallX, di sini PallMods</h2>
+<p>Gw ngerjain aplikasi Android, tampilan web, dan tools. Sebagian prosesnya lewat HP, lanjut di terminal atau GitHub Actions kalau perlu. Biasanya yang paling sering kebuka ya file proyek sama log error.</p>
+<table align="center" width="100%">
+<tr><th align="left">Tentang gw</th><th align="left"></th></tr>
+<tr><td align="left">Nama</td><td align="left"><strong>PallX</strong></td></tr>
+<tr><td align="left">Username GitHub</td><td align="left"><a href="https://github.com/PallMods">@PallMods</a></td></tr>
+<tr><td align="left">Proyek</td><td align="left">PallTune · CatGhost</td></tr>
+<tr><td align="left">Yang sering diulik</td><td align="left">Android · web · terminal</td></tr>
+</table>
+<table align="center" width="100%">
+<tr><th align="left">Di proyek</th><th align="left">Yang gw urus</th></tr>
+<tr><td align="left">Aplikasi</td><td align="left">Tampilan, build APK, dan perbaikan yang dibutuhkan.</td></tr>
+<tr><td align="left">Website</td><td align="left">Halaman proyek, tautan unduhan, dan informasi aplikasi.</td></tr>
+<tr><td align="left">Tools</td><td align="left">Skrip dan langkah kerja supaya lebih praktis.</td></tr>
+</table>
+<a name="tools"></a>
+<h2 align="center">Tools &amp; lingkungan kerja</h2>
+<p align="center">Yang sering gw pakai atau pelajari pas ngerjain proyek.</p>
+<p align="center"><img src="assets/profile-tools.svg" width="100%" alt="Android, Termux, Linux, Java, C/C++, Gradle, Git, Actions" /></p>
+<table align="center" width="100%">
+<tr><th align="left">Bagian</th><th align="left">Dipakai buat</th></tr>
+<tr><td align="left">Android</td><td align="left">Build APK, tampilan aplikasi, dan log crash.</td></tr>
+<tr><td align="left">Termux / Linux</td><td align="left">Perintah terminal, file, dan tools.</td></tr>
+<tr><td align="left">Java / C / C++</td><td align="left">Bagian aplikasi dan kode native.</td></tr>
+<tr><td align="left">Gradle</td><td align="left">Konfigurasi dan task build.</td></tr>
+<tr><td align="left">Git / GitHub Actions</td><td align="left">Riwayat perubahan dan workflow build.</td></tr>
+</table>
+<details><summary><strong>Kalau build lagi bermasalah</strong></summary><br />
+<table align="center" width="100%">
+<tr><th align="left">Cek dulu</th><th align="left">Catatan</th></tr>
+<tr><td align="left">Java</td><td align="left">Versi yang dipakai harus cocok sama kebutuhan proyek.</td></tr>
+<tr><td align="left">Log pertama</td><td align="left">Cari penyebab awalnya, jangan cuma baca “BUILD FAILED”.</td></tr>
+<tr><td align="left">File / direktori</td><td align="left">Periksa nama, huruf besar-kecil, dan path.</td></tr>
+<tr><td align="left">Aplikasi force close</td><td align="left">Ambil log saat crash, meskipun build sudah selesai.</td></tr>
 </table>
 </details>
-<p align="center"><img src="assets/spectrum.gif" width="100%" alt="Garis animasi ungu dan cyan" /></p>
-<p align="center"><strong>PallX</strong> &nbsp; · &nbsp; <a href="https://github.com/PallMods">GitHub</a> &nbsp; · &nbsp; <a href="https://t.me/pallXmodstele">Telegram</a> &nbsp; · &nbsp; <a href="https://whatsapp.com/channel/0029Vb8B7b0DZ4LXD3jpph3N">Saluran</a></p>
-
-</div>
+<p align="center"><a href="#top">↑ Ke atas</a></p>
+<a name="repository"></a>
+<h2 align="center">Repository</h2>
+<p align="center">Source dan proyek lain yang tersedia ada di tab repository.</p>
+<table align="center" width="100%">
+<tr><td align="center" width="50%"><a href="https://github.com/PallMods?tab=repositories">Semua repository ↗</a></td><td align="center" width="50%"><a href="https://github.com/PallMods?tab=repositories&amp;sort=updated">Baru diperbarui ↗</a></td></tr>
+<tr><td align="center" width="50%"><a href="https://github.com/PallMods?tab=repositories&amp;language=java">Filter Java ↗</a></td><td align="center" width="50%"><a href="https://github.com/PallMods?tab=repositories&amp;language=c%2B%2B">Filter C++ ↗</a></td></tr>
+<tr><td align="center" width="50%"><a href="https://github.com/PallMods?tab=stars">Starred ↗</a></td><td align="center" width="50%"><a href="https://github.com/PallMods/PallMods/commits/main/">Riwayat profil ↗</a></td></tr>
+</table>
+<a name="kontak"></a>
+<h2 align="center">Kontak &amp; saluran</h2>
+<p align="center">Tanya proyek lewat Telegram. Untuk kabar yang gw bagikan, ada salurannya.</p>
+<p align="center"><a href="https://t.me/pallXmodstele"><img src="assets/contact-telegram.svg" width="178" alt="Telegram PallX" /></a> <a href="https://whatsapp.com/channel/0029Vb8B7b0DZ4LXD3jpph3N"><img src="assets/contact-whatsapp.svg" width="178" alt="Whatsapp PallX" /></a> <a href="https://www.tiktok.com/@palxmdm"><img src="assets/contact-tiktok.svg" width="178" alt="Tiktok PallX" /></a> <a href="https://github.com/PallMods"><img src="assets/contact-github.svg" width="178" alt="Github PallX" /></a> </p>
+<table align="center" width="100%">
+<tr><th align="left">Platform</th><th align="left">Akun / saluran</th><th align="left">Keperluan</th></tr>
+<tr><td align="left">Telegram</td><td align="left"><a href="https://t.me/pallXmodstele">@pallXmodstele</a></td><td align="left">Hubungi gw langsung.</td></tr>
+<tr><td align="left">WhatsApp</td><td align="left"><a href="https://whatsapp.com/channel/0029Vb8B7b0DZ4LXD3jpph3N">Saluran PallX</a></td><td align="left">Info yang gw bagikan.</td></tr>
+<tr><td align="left">TikTok</td><td align="left"><a href="https://www.tiktok.com/@palxmdm">@palxmdm</a></td><td align="left">Konten gw.</td></tr>
+<tr><td align="left">GitHub</td><td align="left"><a href="https://github.com/PallMods">@PallMods</a></td><td align="left">Source dan rilis proyek.</td></tr>
+</table>
+<p><sub>Cocokin akun yang mengatasnamakan PallX dengan tautan di atas. Kalau ragu, tanya gw di Telegram.</sub></p>
+<details><summary><strong>Tanya singkat</strong></summary><br />
+<table align="center" width="100%">
+<tr><th align="left">Pertanyaan</th><th align="left">Jawaban</th></tr>
+<tr><td align="left">PallX dan PallMods beda?</td><td align="left">PallX nama yang gw pakai. PallMods username GitHub gw.</td></tr>
+<tr><td align="left">Download PallTune di mana?</td><td align="left"><a href="https://github.com/PallMods/PallTune-APK/releases">GitHub Releases</a>. Pilih dari halaman rilis supaya nama file tiap versi tetap ketemu.</td></tr>
+<tr><td align="left">Semua source tersedia?</td><td align="left">Yang bisa dibuka ada di repo publik. Untuk lainnya, tanya gw dulu.</td></tr>
+</table>
+</details>
+<br />
+<details><summary><strong>Logo &amp; banner profil</strong></summary><br />
+<table align="center" width="100%">
+<tr><th align="left">Aset</th><th align="left">Tautan</th></tr>
+<tr><td align="left">Logo asli</td><td align="left"><a href="assets/logo.png">Lihat logo →</a></td></tr>
+<tr><td align="left">Banner gelap</td><td align="left"><a href="assets/profile-cover.svg">Lihat banner →</a></td></tr>
+<tr><td align="left">Banner terang</td><td align="left"><a href="assets/profile-cover-light.svg">Lihat banner →</a></td></tr>
+</table>
+</details>
+<p><img src="assets/spectrum.gif" width="100%" alt="Garis animasi ungu dan cyan" /></p>
+<p align="center"><strong>PallX / PallMods</strong><br /><a href="https://t.me/pallXmodstele">Telegram</a> &nbsp; · &nbsp; <a href="https://whatsapp.com/channel/0029Vb8B7b0DZ4LXD3jpph3N">Saluran</a> &nbsp; · &nbsp; <a href="#top">Kembali ke atas</a></p>
